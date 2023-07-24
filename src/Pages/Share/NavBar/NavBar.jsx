@@ -28,7 +28,7 @@ const NavBar = () => {
         <ActiveLink to='/college'>Colleges</ActiveLink>
     </li>
     <li>
-        <ActiveLink to='/classes'>Classes</ActiveLink>
+        <ActiveLink to='/admission'>Admission</ActiveLink>
     </li>
    {/* {
     isAdmin?  <li>
